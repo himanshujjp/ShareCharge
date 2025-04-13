@@ -39,14 +39,14 @@ You can download and install the **ShareCharge** app from the Google Play Store:
 
 ## 📱 Screenshots
 <p float="left">
-  <img src="https://play-lh.googleusercontent.com/l3NOkjvQ5d1pylUigiKTrzmSzpI7dOsP2E_m4Pwyd4-jzjWG4mq-AXCzSA6H1i4viBtV=w526-h296-rw" width="300" />
-  <img src="https://play-lh.googleusercontent.com/8iFF-qUC_Uynu-k6qTM3dweRIIDUXxOmfd3IpkW0tvwjG42jd9yQu80Lhi9JrhztnBGO=w526-h296-rw" width="300" />
-  <img src="https://play-lh.googleusercontent.com/zUnJxK3lwkTGGo36FOhz89bQXppIFFedFi6VeKvw03gjfs4TXgJPbJu_r4lgiU6GDjo=w526-h296-rw" width="300" />
+  <img src="https://play-lh.googleusercontent.com/l3NOkjvQ5d1pylUigiKTrzmSzpI7dOsP2E_m4Pwyd4-jzjWG4mq-AXCzSA6H1i4viBtV=w526-h296-rw" width="200" />
+  <img src="https://play-lh.googleusercontent.com/8iFF-qUC_Uynu-k6qTM3dweRIIDUXxOmfd3IpkW0tvwjG42jd9yQu80Lhi9JrhztnBGO=w526-h296-rw" width="200" />
+  <img src="https://play-lh.googleusercontent.com/zUnJxK3lwkTGGo36FOhz89bQXppIFFedFi6VeKvw03gjfs4TXgJPbJu_r4lgiU6GDjo=w526-h296-rw" width="200" />
 </p>
 <p float="left">
-  <img src="https://play-lh.googleusercontent.com/6Z5-_G89xMPwHgLZgAFSHJabqWJYrpMG7grLx2HNX5zp5MosM4JvsokYlKqMD4ipoOc=w526-h296-rw" width="300" />
-  <img src="https://play-lh.googleusercontent.com/Hiav5BSDCIgCezhdUxUxS9jtH8jen3Husf2mCOLBXXch8lI7cTSPYSKgIU3tgcg2HSI=w526-h296-rw" width="300" />
-  <img src="https://play-lh.googleusercontent.com/aLj9JisiUCjNG54YGfi9QX9B-amkVfuhYyEucTBhKP9KTP_c-EHYTGDT6MRdgxsTL2Y=w526-h296-rw" width="300" />
+  <img src="https://play-lh.googleusercontent.com/6Z5-_G89xMPwHgLZgAFSHJabqWJYrpMG7grLx2HNX5zp5MosM4JvsokYlKqMD4ipoOc=w526-h296-rw" width="200" />
+  <img src="https://play-lh.googleusercontent.com/Hiav5BSDCIgCezhdUxUxS9jtH8jen3Husf2mCOLBXXch8lI7cTSPYSKgIU3tgcg2HSI=w526-h296-rw" width="200" />
+  <img src="https://play-lh.googleusercontent.com/aLj9JisiUCjNG54YGfi9QX9B-amkVfuhYyEucTBhKP9KTP_c-EHYTGDT6MRdgxsTL2Y=w526-h296-rw" width="200" />
 </p>
 
 ---
